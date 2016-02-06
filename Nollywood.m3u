@@ -1,0 +1,7 @@
+1.#EXTM3U 
+#EXTINF:0,nollywood
+http://162.212.176.83:8080/map-nollywood.m3u8
+#EXTINF:-1,Anis Sat : Africa Home TV
+rtsp://dimd-s.nsacdn.com/dimd_HomeTVRepeat/HomeTV_3
+#EXTINF:0,nollywood-roku
+http://162.212.176.83:8080/map-nollywood-roku.m3u8
